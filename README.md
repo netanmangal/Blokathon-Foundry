@@ -1,5 +1,8 @@
 # Blok-a-Thon: Facet Building Hackathon
 
+Slides: https://docs.google.com/presentation/d/1E8UfYjVTxKEh4VxhAA8IHXdBGB1I0kRaCsPnkvZ7vPY/edit?usp=sharing
+
+
 Welcome to the **Blok-a-Thon**, a Blok Capital hackathon focused on building modular smart contract facets using the Diamond Proxy pattern (EIP-2535). This repository provides a ready-to-use Foundry setup with a fully configured Diamond Proxy architecture.
 
 ## Hackathon Overview
